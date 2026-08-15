@@ -6,7 +6,7 @@ The first catalog deliberately covers the examples that started the project:
 
 - the imperial banner commonly associated with the Holy Roman Empire (“First Reich”);
 - the German Empire (“Second Reich”);
-- Germany under Nazi rule (“Third Reich”), obscured by default;
+- The Third Reich, obscured by default;
 - the Kingdom of Italy, including the 1930s;
 - the Spanish State under Francisco Franco, using the 1945–1977 design; and
 - the British Gold Coast, now Ghana.
